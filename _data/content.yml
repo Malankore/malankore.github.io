@@ -92,13 +92,13 @@ resume:
     title: "Education"
     icon: "university"
     items:
-      - year: "1999 - 2001"
+      - year: "2002 - 2005"
         institution: "Buckeye Joint Vocational School"
         city: "New Philadelphia"
         text: "Computer Systems Networking and Telecommunications"
         h_line: 1
 
-      - year: "1997 - 1999"
+      - year: "2000 - 2002"
         institution: "New Philadelphia High School"
         city: "New Philadelphia"
         text: "General Education"
