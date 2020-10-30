@@ -71,21 +71,21 @@ resume:
       - year: "2019 - Present"
         role: "IT Specialist"
         company: "Eynon Software"
-        text: "Minor Webmaster experience, Residential and Corporate User/System Support, and Server Administration"
+        text: "Minor webmaster experience, residential and corporate user/system support, and server administration"
         active: 1
         h_line: 1
 
       - year: "2014 - 2019"
         role: "Systems Engineer"
         company: "DSN Group INC"
-        text: "MSP services for many companies, End User/System Support, VMware training and Management"
+        text: "MSP services for many companies, end user/system support, VMware training and management"
         active: 0
         h_line: 1
 
       - year: "2006 - 2007"
         role: "Support and Install Technician"
         company: "Valkyrie Wireless"
-        text: "Wireless ISP Services, Linux Administration, and Long range wireless setup and maintanence"
+        text: "Wireless ISP Services, Linux Administration, and long range wireless setup and maintanence"
         active: 0
         h_line: 0
   education:
