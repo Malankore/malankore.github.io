@@ -10,7 +10,7 @@ author: Tyler Eynon
 tags: Wireless
 ---
 
-This job at a set of schools, deploying new Ruckus R710 AP's,
+This job was at a set of schools deploying new Ruckus R710 AP's,
 as well as a SmartZone 100 Wireless controller.
 These were replacing the old Meru wireless and wireless controllers.
 Setup was straightforward once I discovered a wrong Gateway IP.
