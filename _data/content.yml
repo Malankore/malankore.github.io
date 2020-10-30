@@ -8,44 +8,29 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Tyler Eynon.</strong><br> I am a Systems Engineer from Canton, Ohio. I have over a decade of experience as an I.T. Engineer, as well as an In-Home repair tech. I would love to help with any issues you have with your systems!.
         </p>
         "
   list:
     - label: "Age"
-      value: "24"
+      value: "35"
 
-    - label: "Residence"
-      value: "USA"
-
-    - label: "Freelance"
-      value: "Available"
-
-    - label: "Address"
-      value: "California, USA"
+    - label: "Location"
+      value: "Canton, Ohio"
 
 ### Services [ services ]
 services:
   title: "My Services"
   items:
-    - icon: "code"
-      name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
-      h_line: 1
-
-    - icon: "music-note"
-      name: "Music Writing"
-      text: "Music copying, transcription, arranging and composition services."
-      h_line: 1
 
     - icon: "speakerphone"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail and web."
+      name: "In-Home Service"
+      text: "In-Home Service of your Devices, or Training on Applications"
       h_line: 0
 
     - icon: "ios-game-controller-b"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios games."
+      name: "Remote Service"
+      text: "Remote Service of your Devices, or Over the Internet training"
       h_line: 0
 
 ### Pricing [ pricing ]
@@ -53,111 +38,28 @@ pricing:
   title: "Pricing"
   items:
     - icon: "speedometer speed-basic"
-      name: "Basic"
+      name: "In-Home Service"
       price_pre: "$"
-      price: "22"
+      price: "50"
       price_after: "hour"
       list:
-        - text: "Web Development"
+        - text: "$30 for the first 30 minutes"
           disable: 0
           new: 0
-
-        - text: "Advetising"
-          disable: 0
-          new: 0
-
-        - text: "Game Development"
-          disable: 0
-          new: 0
-
-        - text: "Music Writing"
-          disable: 1
-          new: 0
-
-        - text: "Photography"
-          disable: 1
-          new: 1
       button_link: "#"
-      button_text: "Buy Basic"
-
-    - icon: "speedometer"
-      name: "Pro"
+      button_text: "Contact for Service"
+      
+    - icon: "speedometer speed-basic"
+      name: "Remote Service"
       price_pre: "$"
-      price: "48"
+      price: "45"
       price_after: "hour"
       list:
-        - text: "Web Development"
+        - text: "$25 for the first 30 minutes"
           disable: 0
           new: 0
-
-        - text: "Advetising"
-          disable: 0
-          new: 0
-
-        - text: "Game Development"
-          disable: 0
-          new: 0
-
-        - text: "Music Writing"
-          disable: 0
-          new: 0
-
-        - text: "Photography"
-          disable: 0
-          new: 1
       button_link: "#"
-      button_text: "Buy Pro"
-
-### Facts [ facts ]
-facts:
-  title: "Fun Fact"
-  items:
-    - icon: "disc"
-      name: "80 Albumes Listened"
-
-    - icon: "trophy"
-      name: "15 Awards Won"
-
-    - icon: "coffee"
-      name: "1 000 Cups of coffee"
-
-    - icon: "flag"
-      name: "10 Countries Visited"
-
-### Clients [ clients ]
-clients:
-  title: "Clients"
-  items:
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_1.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_2.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_3.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_4.png"
-
-### Testimonials [ testimonials ]
-testimonials:
-  title: "Testimonials"
-  items:
-    - image: "assets/img/man1.jpg"
-      name: "Helen Floyd"
-      subname: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-    - image: "assets/img/man1.jpg"
-      name: "Robert Chase"
-      subname: "CEO"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-    - image: "assets/img/man1.jpg"
-      name: "Helen Floyd"
-      subname: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      button_text: "Contact for Service"
 
 ### Resume [ resume ]
 resume:
@@ -166,47 +68,41 @@ resume:
     title: "Experience"
     icon: "briefcase"
     items:
-      - year: "2013 - Present"
-        role: "Art Director"
-        company: "Facebook Inc."
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "2019 - Present"
+        role: "IT Specialist"
+        company: "Eynon Software"
+        text: "Minor Webmaster experience, Residential and Corporate User/System Support, and Server Administration"
         active: 1
         h_line: 1
 
-      - year: "2011 - 2012"
-        role: "Front-end Developer"
-        company: "Google Inc."
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "2014 - 2019"
+        role: "Systems Engineer"
+        company: "DSN Group INC"
+        text: "MSP services for many companies, End User/System Support, VMware training and Management."
         active: 0
         h_line: 1
 
-      - year: "2009 - 2010"
-        role: "Senior Developer"
-        company: "Abc Inc."
-        text: "Optimize website performance using latest technology."
+      - year: "2006 - 2007"
+        role: "Support and Install Technicam"
+        company: "Valkyrie Wireless"
+        text: "Wireless ISP Services, Linux Administration, and Long range wireless setup and maintanence"
         active: 0
         h_line: 0
   education:
     title: "Education"
     icon: "university"
     items:
-      - year: "2006 - 2008"
-        institution: "Art University"
-        city: "New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "1999 - 2001"
+        institution: "Buckeye Joint Vocational School"
+        city: "New Philadelphia"
+        text: "Computer Systems Networking and Telecommunications"
         h_line: 1
 
-      - year: "2005 - 2006"
-        institution: "Programming Course"
-        city: "Paris"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+      - year: "1997 - 1999"
+        institution: "New Philadelphia High School"
+        city: "New Philadelphia"
+        text: "General Education"
         h_line: 1
-
-      - year: "2004 - 2005"
-        institution: "Web Design Course"
-        city: "London"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
-        h_line: 0
 
 ### Skills [ skills ]
 skills:
@@ -289,7 +185,7 @@ skills:
           value: "" #0-100 progress in %
 
 ### Portfolio [ portfolio ]
-portfolio:
+###portfolio:
   title: "Recent Works"
   filters:
     - name: "All"
@@ -321,16 +217,11 @@ contacts_info:
   title: "Get in Touch"
   list:
     - label: "Address"
-      value: "California, USA"
+      value: "Canton, Ohio"
 
     - label: "Email"
-      value: "adlard@example.com"
+      value: "tyler@tjeynon.us"
 
-    - label: "Phone"
-      value: "+123 654 78900"
-
-    - label: "Freelance"
-      value: "Available"
 
 ### Contact Form [ contacts-form ]
 contacts_form:

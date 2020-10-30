@@ -15,9 +15,9 @@ main:
         - about
         - services
         - pricing
-        - facts
-        - clients
-        - testimonials
+#        - facts
+#        - clients
+#        - testimonials
   
   #resume card
   - title: "Resume"
@@ -25,14 +25,14 @@ main:
     slug: "resume"
     sections:
         - resume
-        - skills
+ #       - skills
   
   #works card
-  - title: "works"
-    icon: "paintbrush"
-    slug: "works"
-    sections:
-        - portfolio
+ ### - title: "works"
+ ###   icon: "paintbrush"
+ ###   slug: "works"
+ ###   sections:
+ ###       - portfolio
   
   #blog card
   - title: "Blog"
@@ -46,5 +46,5 @@ main:
     icon: "at"
     slug: "contacts"
     sections:
-        - contacts-info
+        #- contacts-info
         - contacts-form
