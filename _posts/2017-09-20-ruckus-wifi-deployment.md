@@ -15,7 +15,7 @@ as well as a SmartZone 100 Wireless controller.
 These were replacing the old Meru wireless and wireless controllers.
 Setup was straightforward once I discovered a wrong Gateway IP.
 
-These things are great!
+These devices are great!
 
 Once the controller is set up, the provisioning is automatic.
 Simply roll room to room, pull the old AP down, put the new one up.
