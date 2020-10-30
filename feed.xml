@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-30T01:44:15-04:00</updated><id>/feed.xml</id><title type="html">Tyler Eynon - Systems Engineer</title><subtitle>Tyler Eynon Resume and Blog</subtitle><author><name>tjeynon</name></author><entry><title type="html">Ruckus Wifi Deployment</title><link href="/hardware/wireless/2017/09/20/ruckus-wifi-deployment/" rel="alternate" type="text/html" title="Ruckus Wifi Deployment" /><published>2017-09-20T00:00:00-04:00</published><updated>2017-09-20T00:00:00-04:00</updated><id>/hardware/wireless/2017/09/20/ruckus-wifi-deployment</id><content type="html" xml:base="/hardware/wireless/2017/09/20/ruckus-wifi-deployment/">&lt;p&gt;This job at a set of schools, deploying new Ruckus R710 AP’s,
+as well as a SmartZone 100 Wireless controller.
+These were replacing the old Meru wireless and wireless controllers.
+Setup was straightforward once I discovered a wrong Gateway IP.&lt;/p&gt;
+
+&lt;p&gt;These things are great!&lt;/p&gt;
+
+&lt;p&gt;Once the controller is set up, the provisioning is automatic.
+Simply roll room to room, pull the old AP down, put the new one up.
+Grab the serial number off the box and write down the room number.&lt;/p&gt;
+
+&lt;p&gt;Once a batch of AP’s are installed, log onto the controller,
+find the serial number in the list of already provisioned AP’s
+and simply name it which room it is.
+I have never had a job quite so easy, granted it was a lot of legwork
+up and down ladders, but straightforward.&lt;/p&gt;
+
+&lt;p&gt;In the end we replaced over 120 AP’s.
+Took 5 days with 3 people going 8 hours a day.&lt;/p&gt;
+
+&lt;p&gt;Was a great Experience!&lt;/p&gt;</content><author><name>Tyler Eynon</name></author><category term="[&quot;Hardware&quot;, &quot;Wireless&quot;]" /><category term="Wireless" /><summary type="html">This job at a set of schools, deploying new Ruckus R710 AP’s, as well as a SmartZone 100 Wireless controller. These were replacing the old Meru wireless and wireless controllers. Setup was straightforward once I discovered a wrong Gateway IP.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/blog1.jpg" /><media:content medium="image" url="/assets/img/blog/blog1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
