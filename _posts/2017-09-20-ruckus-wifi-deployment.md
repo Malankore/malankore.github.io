@@ -23,7 +23,7 @@ Grab the serial number off the box and write down the room number.
 
 Once a batch of AP's are installed, log onto the controller,
 find the serial number in the list of already provisioned AP's
-and simply name it which room it is.
+and simply name it which room it is in.
 I have never had a job quite so easy, granted it was a lot of legwork
 up and down ladders, but straightforward.
 
