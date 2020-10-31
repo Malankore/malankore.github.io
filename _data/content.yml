@@ -46,7 +46,7 @@ pricing:
         - text: "$30 for the first 30 minutes"
           disable: 0
           new: 0
-      button_link: "https://malankore.github.io/#contacts-card"
+      button_link: "mailto:tyler@tjeynon.us"
       button_text: "Contact for Service"
       
     - icon: "speedometer speed-basic"
@@ -58,7 +58,7 @@ pricing:
         - text: "$25 for the first 30 minutes"
           disable: 0
           new: 0
-      button_link: "https://malankore.github.io/#contacts-card"
+      button_link: "mailto:tyler@tjeynon.us"
       button_text: "Contact for Service"
 
 ### Resume [ resume ]
