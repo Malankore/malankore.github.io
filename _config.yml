@@ -24,7 +24,7 @@ email: "tyler@tjeynon.us"
 description: "Tyler Eynon Resume and Blog"
 author: "tjeynon"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://malankore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
 
 # paginations & permalinks
@@ -58,8 +58,8 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+    category: /_site/categories/:name/
+    tag: /_site/tags/:name/
 
 # Build settings
 plugins:
