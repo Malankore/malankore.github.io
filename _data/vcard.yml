@@ -28,3 +28,7 @@ main:
     - title: "Download Resume"
       icon: ""
       url: "https://drive.google.com/file/d/0B_w9P178HJpdaEdYdEp2Sk1BVDA/view?usp=sharing"
+
+    - title: "Contact Me"
+      icon: ""
+      url: "https://malankore.github.io/#contacts-card"
