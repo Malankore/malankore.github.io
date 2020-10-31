@@ -37,7 +37,7 @@ services:
 pricing:
   title: "Pricing"
   items:
-    - icon: "speedometer speed-basic"
+    - icon: "speedometer speed-premium"
       name: "In-Home Service"
       price_pre: "$"
       price: "50"
@@ -49,7 +49,7 @@ pricing:
       button_link: "mailto:tyler@tjeynon.us"
       button_text: "Contact for Service"
       
-    - icon: "speedometer speed-basic"
+    - icon: "speedometer speed-premium"
       name: "Remote Service"
       price_pre: "$"
       price: "45"
